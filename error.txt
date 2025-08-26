@@ -1,0 +1,6 @@
+Updated Bot Information
+Name: AskTheSageQuizzer
+
+About: Your personal academic tutor for university courses. AskTheSageQuizzer uses a smart, adaptive learning system to help you ace your university exams.
+
+Description: AskTheSageQuizzer is an intelligent learning assistant designed to make studying more effective. It provides personalized quizzes for university students by using a hybrid algorithm that focuses on your weak spots, applies spaced repetition to boost your memory, and ensures you cover all the material. From basic electronics to a wide range of other university subjects, it helps you master concepts and prepare for exams with confidence.
